@@ -1,24 +1,19 @@
-## Hi, I'm Rafaela Tamura — Fullstack Developer & Cybersecurity Enthusiast 👩‍💻🔒
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:5D3786,100:120A19&height=180&section=header&text=Rafaela%20Tamura&fontSize=40&fontAlign=50&fontColor=ffffff)
 
-Seja bem-vindo(a) ao meu perfil! 😊
+Welcome to my profile! 
 
-Aqui você vai encontrar alguns dos meus projetos pessoais, estudos e experimentações com diferentes tecnologias.
-
-### Sobre
-
-🎓 Formada em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software e Pós-graduação em Cybersecurity.  
-💻 Desenvolvedora Fullstack com foco em C#, .NET, React e Angular.  
-🔒 Apaixonada por segurança da informação e em constante aprendizado sobre desenvolvimento seguro de aplicações.  
-🌱 Sempre curiosa sobre novas tecnologias e práticas de desenvolvimento.  
-
----
+Here you will find some of my personal projects, study materials and experiments with different technologies.
 
 ### About me
 
 🎓 Background in Computer Systems Analysis, currently pursuing a Bachelor's in Software Engineering and a Postgraduate degree in Cybersecurity.  
 💻 Fullstack Developer with experience in C#, .NET, React and Angular.  
-🔒 Passionate about information security and secure software development.  
-🌱 Always curious and exploring new technologies and development practices.
+🔒 Passionate about information security and secure software development. 
+
+---
+
+> 🌱 **_Always curious, always learning..._**  
+> and googling things more often than I'd like to admit. 
 
 ---
 
@@ -48,12 +43,5 @@ Aqui você vai encontrar alguns dos meus projetos pessoais, estudos e experiment
 
 ### 📈 GitHub Stats
 
-![Rafa GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaTamura&show_icons=true&theme=dracula&count_private=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaTamura&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RafaTamura&theme=dracula)](https://git.io/streak-stats)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=RafaTamura&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)  
-
----
-
-✨ Always learning something new and embracing new challenges!
