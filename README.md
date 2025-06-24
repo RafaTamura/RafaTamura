@@ -6,7 +6,7 @@ Here you will find some of my personal projects, study materials and experiments
 
 ### About me
 
-🎓 Background in Computer Systems Analysis, currently pursuing a Bachelor's in Software Engineering and a Postgraduate degree in Cybersecurity.  
+🎓 Background in Computer Systems Analysis and a Postgraduate degree in Cybersecurity, currently pursuing a Bachelor's in Software Engineering.  
 💻 Fullstack Developer with experience in C#, .NET, React and Angular.  
 🔒 Passionate about information security and secure software development. 
 
